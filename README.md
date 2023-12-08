@@ -47,7 +47,7 @@
 
 
 
-![alt_text](https://github.com/Sirenaaaa/EmployeeMicroserviceDesignQuestion/blob/main/Visual.png)
+![alt_text](https://github.com/Sirenaaaa/DesignSubmission/blob/main/Visual.png)
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-![alt_text](https://github.com/Sirenaaaa/EmployeeMicroserviceDesignQuestion/blob/main/VisualWithMSComponents.png)
+![alt_text](https://github.com/Sirenaaaa/DesignSubmission/blob/main/VisualWithMSComponents.png)
 
 
 
